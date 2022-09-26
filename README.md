@@ -2,4 +2,7 @@
 
 Aman it's a digital identity for citizens and it's helping authorities to identify them in the emergency situations.
 
-![Aman-Mockup](https://user-images.githubusercontent.com/68607257/184804746-56ab5b65-2ac5-4a10-b428-746a1d86945c.png)
+authority app : https://bit.ly/aman_authority
+citzen app : https://bit.ly/aman_citzen
+
+![Aman-Mockup](https://user-images.githubusercontent.com/28947735/192222855-ddd2fa5a-eed5-40c4-8dfb-bfdb266ee4f6.png)
